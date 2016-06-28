@@ -1,0 +1,10 @@
+{
+  "README.md": "54319f6fa5c82bf13c83d61bf45c37fc",
+  "Rakefile": "20b80e526e351a74df2001f504e756d2",
+  "manifests/init.pp": "8a79d95d47c527cbf84f6dc4e4ecddb7",
+  "metadata.json": "3d2a5625e8e3c3b43ce7a7549a9104c7",
+  "spec/classes/init_spec.rb": "9da0f1169d4f04232dad9caa5bd1780e",
+  "spec/spec_helper.rb": "a55d1e6483344f8ec6963fcb2c220372",
+  "templates/createwordpressdb.sql.erb": "79710e9cd49e34b8b6697778d565b7e9",
+  "tests/init.pp": "b1d50c0cfdc6de7012a57d7c8ef576b9"
+}
